@@ -1,3 +1,3 @@
-# testing
+# Curso IBM DataScience
 
-cambios potentes xd
+En este repositorio se encontraran diferentes archivos realizados para el curso de Ciencia de datos IBM
